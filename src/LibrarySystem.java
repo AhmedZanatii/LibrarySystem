@@ -367,5 +367,4 @@ public class LibrarySystem {
         }
         return scanner.nextInt();
     }
-
 }
