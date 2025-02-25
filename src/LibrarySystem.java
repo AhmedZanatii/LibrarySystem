@@ -101,7 +101,7 @@ public class LibrarySystem {
 
             // Display a welcome screen
             System.out.println("-------------------------------------------------");
-            System.out.println("         Welcome to the Library System!");
+            System.out.println("         Welcome to the Zanaty Library System!");
             System.out.println("-------------------------------------------------");
             System.out.println("This system allows you to manage books simply.");
 
